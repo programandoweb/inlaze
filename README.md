@@ -6,6 +6,11 @@
 
 Inlaze Social es una aplicación web desarrollada con tecnologías de vanguardia como Next.js y Laravel, diseñada para demostrar habilidades y conocimientos en el marco de una prueba de Inlaze. Esta plataforma simula una red social, proporcionando una experiencia interactiva y moderna para los usuarios.
 
+##INICIO DE SESIÓN
+URL <b>https://inlaze.evolve.dev.programandoweb.net/auth/login</b>
+El email <b>lic.jorgemendez@gmail.com<b>
+Contraseña <b>pasword<b>
+
 ## Características Principales
 
 ✨ **Interfaz Intuitiva**: Diseño atractivo y fácil de usar para una experiencia de usuario sin complicaciones.

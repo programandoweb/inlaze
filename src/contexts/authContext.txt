@@ -1,0 +1,10 @@
+'use client';
+
+import { createContext, useContext, useState } from "react";
+
+const AuthContextProvider   =       createContext({})
+
+
+
+
+export default AuthContextProvider
